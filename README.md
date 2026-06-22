@@ -18,6 +18,15 @@ My goal is to build a strong technical profile through real projects, consistent
 
 ---
 
+## 🎓 Certifications & Courses
+
+- **Introduction to Java** — SoloLearn, 2026
+- **Introduction to SQL** — SoloLearn, 2026
+- **SQL Intermediate** — SoloLearn, 2026
+- **Vibe-Coding & Lean Startup Workshop** — TechHub FP Euroformac, Madrid, 2026
+  
+---
+
 # 💻 Tech Stack
 
 ## Languages & Markup
