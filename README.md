@@ -1,16 +1,66 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**DeadPol8789/DeadPol8789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Pol, also known as **DeadPol8789**.
 
-Here are some ideas to get you started:
+I'm a **Cross-Platform Application Development student** focused on software development, Linux, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning **Java, Git, GitHub, SQL, Linux, networking, and cybersecurity fundamentals**.
+
+My goal is to build a strong technical profile through real projects, consistent practice, and public documentation of my progress.
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DeadPol8789)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@DeadPol8789)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/DeadPol8789)
+
+---
+
+# 💻 Tech Stack
+
+## Languages & Markup
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Tools & Systems
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Bash Script](https://img.shields.io/badge/Bash%20Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+## IDEs & Design
+
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=DeadPol8789&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=DeadPol8789&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadPol8789&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=DeadPol8789&label=Profile%20views&color=blueviolet&style=flat)](https://visitcount.itsvg.in)
