@@ -24,6 +24,7 @@ My goal is to build a strong technical profile through real projects, consistent
 - **Introduction to SQL** — SoloLearn, 2026
 - **SQL Intermediate** — SoloLearn, 2026
 - **Vibe-Coding & Lean Startup Workshop** — TechHub FP Euroformac, Madrid, 2026
+- **AI Development: Program with Agents** — MoureDev / BIG school, 2026 *(6 hours)*
   
 ---
 
