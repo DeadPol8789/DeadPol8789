@@ -4,7 +4,7 @@ Hi, I'm Pol, also known as **DeadPol8789**.
 
 I'm a **Cross-Platform Application Development student** focused on software development, Linux, and cybersecurity.
 
-I'm currently learning **Java, Git, GitHub, SQL, Linux, networking, and cybersecurity fundamentals**.
+I'm currently learning **Python, Java, Git, GitHub, SQL, Linux, networking, AI and cybersecurity fundamentals**.
 
 My goal is to build a strong technical profile through real projects, consistent practice, and public documentation of my progress.
 
