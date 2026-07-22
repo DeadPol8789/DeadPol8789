@@ -10,6 +10,22 @@ My goal is to build a strong technical profile through real projects, consistent
 
 ---
 
+## 🧪 HomeLab
+
+I'm building a personal HomeLab to learn Linux, networking, virtualization, cybersecurity, automation, and AI agents through real practice.
+
+Current focus:
+
+- Proxmox virtualization
+- Linux servers
+- OPNsense firewall/router
+- Docker containers
+- Networking and managed switches
+- Monitoring and automation
+- AI agents and local services
+
+---
+
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DeadPol8789)
