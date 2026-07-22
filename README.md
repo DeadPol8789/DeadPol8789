@@ -14,7 +14,7 @@ My goal is to build a strong technical profile through real projects, consistent
 
 I'm building a personal HomeLab to learn Linux, networking, virtualization, cybersecurity, automation, and AI agents through real practice.
 
-Current focus:
+Planned infrastructure and learning focus:
 
 - Proxmox virtualization
 - Linux servers
