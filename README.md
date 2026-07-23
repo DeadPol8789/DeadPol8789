@@ -39,6 +39,7 @@ Planned infrastructure and learning focus:
 - **Introduction to Python** — SoloLearn, 2026
 - **Introduction to Java** — SoloLearn, 2026
 - **Introduction to SQL** — SoloLearn, 2026
+- **Generative AI in Practice** — SoloLearn, 2026
 - **SQL Intermediate** — SoloLearn, 2026
 - **Vibe-Coding & Lean Startup Workshop** — TechHub FP Euroformac, Madrid, 2026
 - **AI Development: Program with Agents** — MoureDev / BIG school, 2026 *(6 hours)*
