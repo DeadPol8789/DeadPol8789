@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">DeadPol8789 developer profile banner</title>
+  <desc id="desc">Animated terminal-style banner for Pol, a DAM student focused on software development, Linux, HomeLab and cybersecurity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#E2E8F0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="screenClip"><rect x="32" y="32" width="1136" height="356" rx="18"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="384" rx="22" fill="none" stroke="#1F2A44" stroke-width="2"/>
+  <rect x="32" y="32" width="1136" height="356" rx="18" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".55"/>
+  <rect x="32" y="32" width="1136" height="46" rx="18" fill="#E8EEF8"/>
+  <rect x="32" y="60" width="1136" height="18" fill="#E8EEF8"/>
+
+  <circle cx="58" cy="55" r="6" fill="#FB7185"/>
+  <circle cx="80" cy="55" r="6" fill="#FBBF24"/>
+  <circle cx="102" cy="55" r="6" fill="#34D399"/>
+  <text x="128" y="61" fill="#94A3B8" font-size="16" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">profile.sh --live</text>
+
+  <g clip-path="url(#screenClip)">
+    <path d="M0 115 H1200 M0 155 H1200 M0 195 H1200 M0 235 H1200 M0 275 H1200 M0 315 H1200 M0 355 H1200" stroke="#DCE5F2" stroke-width="1"/>
+    <path d="M80 78 V420 M160 78 V420 M240 78 V420 M320 78 V420 M400 78 V420 M480 78 V420 M560 78 V420 M640 78 V420 M720 78 V420 M800 78 V420 M880 78 V420 M960 78 V420 M1040 78 V420 M1120 78 V420" stroke="#EEF2F7" stroke-width="1"/>
+  </g>
+
+  <!-- Left identity panel -->
+  <rect x="58" y="98" width="330" height="264" rx="18" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <text x="82" y="126" fill="#22D3EE" font-size="13" letter-spacing="2" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">IDENTITY.MAP</text>
+
+  <g transform="translate(223 225)">
+    <path d="M0 -92 L86 -58 L76 44 Q48 91 0 108 Q-48 91 -76 44 L-86 -58 Z"
+          fill="#FFFFFF" stroke="url(#accent)" stroke-width="4" filter="url(#glow)">
+      <animate attributeName="stroke-opacity" values=".65;1;.65" dur="3.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 -75 L68 -48 L60 36 Q38 75 0 90 Q-38 75 -60 36 L-68 -48 Z"
+          fill="none" stroke="#7C3AED" stroke-opacity=".45" stroke-width="2"/>
+    <text x="-61" y="20" fill="#111827" font-size="76" font-weight="800"
+          font-family="Arial Black,Arial,sans-serif" letter-spacing="-10">DP</text>
+
+    <g fill="#22D3EE">
+      <circle cx="-88" cy="-24" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="88" cy="-24" r="4"><animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="-75" cy="52" r="4"><animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="75" cy="52" r="4"><animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    </g>
+    <path d="M-84 -24 H-53 M84 -24 H53 M-71 52 H-47 M71 52 H47" stroke="#22D3EE" stroke-width="2" stroke-dasharray="4 5"/>
+  </g>
+
+  <rect x="103" y="328" width="240" height="24" rx="12" fill="#F1F5F9" stroke="#A78BFA" stroke-opacity=".7"/>
+  <circle cx="121" cy="340" r="5" fill="#10B981">
+    <animate attributeName="opacity" values=".35;1;.35" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="135" y="345" fill="#C4B5FD" font-size="13" font-weight="700" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">@DeadPol8789</text>
+
+  <!-- Right system panel -->
+  <text x="430" y="122" fill="#0F172A" font-size="29" font-weight="800" font-family="Inter,Segoe UI,Arial,sans-serif">POL // DEADPOL8789</text>
+  <text x="430" y="150" fill="#A78BFA" font-size="16" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">DAM STUDENT · BUILDING, LEARNING, DOCUMENTING</text>
+
+  <g font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="15">
+    <text x="430" y="194" fill="#64748B">ROLE</text>
+    <line x1="492" y1="189" x2="713" y2="189" stroke="#94A3B8" stroke-dasharray="3 7"/>
+    <text x="732" y="194" fill="#1E293B">Cross-Platform App Development Student</text>
+
+    <text x="430" y="229" fill="#64748B">FOCUS</text>
+    <line x1="500" y1="224" x2="713" y2="224" stroke="#94A3B8" stroke-dasharray="3 7"/>
+    <text x="732" y="229" fill="#1E293B">Cybersecurity · Linux · Software</text>
+
+    <text x="430" y="264" fill="#64748B">BUILD</text>
+    <line x1="492" y1="259" x2="713" y2="259" stroke="#94A3B8" stroke-dasharray="3 7"/>
+    <text x="732" y="264" fill="#1E293B">Personal HomeLab</text>
+
+    <text x="430" y="299" fill="#64748B">STACK</text>
+    <line x1="500" y1="294" x2="713" y2="294" stroke="#94A3B8" stroke-dasharray="3 7"/>
+    <text x="732" y="299" fill="#1E293B">Java · Python · SQL · Git · Linux</text>
+
+    <text x="430" y="334" fill="#64748B">LAB PLAN</text>
+    <line x1="520" y1="329" x2="713" y2="329" stroke="#94A3B8" stroke-dasharray="3 7"/>
+    <text x="732" y="334" fill="#1E293B">Proxmox · Docker · OPNsense</text>
+  </g>
+
+  <rect x="1020" y="98" width="116" height="28" rx="14" fill="#F3E8FF" stroke="#A78BFA"/>
+  <circle cx="1040" cy="112" r="5" fill="#FB7185">
+    <animate attributeName="opacity" values=".25;1;.25" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1053" y="117" fill="#0F172A" font-size="12" font-weight="700" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">LIVE</text>
+
+  <rect x="430" y="352" width="706" height="3" rx="2" fill="#CBD5E1"/>
+  <rect x="430" y="352" width="230" height="3" rx="2" fill="url(#accent)">
+    <animate attributeName="width" values="120;600;230" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="430" y="377" fill="#22D3EE" font-size="14" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">
+    $ status: ready_to_learn
+    <animate attributeName="opacity" values="1;1;.15;1" keyTimes="0;.75;.82;1" dur="2.2s" repeatCount="indefinite"/>
+  </text>
+</svg>
