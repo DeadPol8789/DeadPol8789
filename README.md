@@ -89,10 +89,5 @@ Selected training:
 
 [View all certifications and completed training →](CERTIFICATIONS.md)
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=DeadPol8789&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="DeadPol8789 GitHub statistics">
-</p>
 
 <!-- Featured projects will be added here when the repositories are documented and ready to present. -->
