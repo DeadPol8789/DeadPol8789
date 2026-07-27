@@ -63,6 +63,12 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Prompt fundamentals
 
+### Agentic Workflows
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** Agentic AI workflows and task orchestration
+
 ## Workshops & Events
 
 ### Vibe-Coding & Lean Startup Workshop
