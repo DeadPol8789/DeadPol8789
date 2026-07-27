@@ -89,5 +89,8 @@ Selected training:
 
 [View all certifications and completed training →](CERTIFICATIONS.md)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeadPol8789&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views">
+</p>
 
 <!-- Featured projects will be added here when the repositories are documented and ready to present. -->
