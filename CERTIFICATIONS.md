@@ -44,6 +44,12 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Large language model fundamentals
 
+### Meet Claude
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** Claude AI fundamentals and practical use
+  
 ### Brainstorm with AI
 
 - **Issuer:** SoloLearn
