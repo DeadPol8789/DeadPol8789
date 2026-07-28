@@ -5,6 +5,7 @@
 </picture>
 
 <p align="center">
+  <a href="https://www.youtube.com/@deadpol8789"><img src="https://img.shields.io/badge/YouTube-0A101F?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"></a>
   <a href="https://instagram.com/DeadPol8789"><img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram"></a>
   <a href="https://tiktok.com/@DeadPol8789"><img src="https://img.shields.io/badge/TikTok-0A101F?style=for-the-badge&logo=tiktok&logoColor=22D3EE" alt="TikTok"></a>
   <a href="https://twitch.tv/DeadPol8789"><img src="https://img.shields.io/badge/Twitch-0A101F?style=for-the-badge&logo=twitch&logoColor=A78BFA" alt="Twitch"></a>
