@@ -56,6 +56,12 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** AI-assisted ideation
 
+### Critical Thinking in the Age of AI
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** Critical thinking, AI literacy, and responsible decision-making
+
 ### AI Development: Program with Agents
 
 - **Issuer:** MoureDev / BIG school
