@@ -75,6 +75,12 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Prompt fundamentals
 
+### Prompt Engineering
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** Prompt design, AI interaction, and effective instruction writing
+
 ### Agentic Workflows
 
 - **Issuer:** SoloLearn
