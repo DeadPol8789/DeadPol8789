@@ -62,6 +62,12 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Critical thinking, AI literacy, and responsible decision-making
 
+### AI-Powered A/B Testing
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** AI-assisted experimentation, A/B testing, and data-driven optimization
+
 ### AI Development: Program with Agents
 
 - **Issuer:** MoureDev / BIG school
