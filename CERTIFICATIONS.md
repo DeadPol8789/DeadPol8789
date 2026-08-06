@@ -93,6 +93,14 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Agentic AI workflows and task orchestration
 
+## General Technology
+
+### Tech for Everyone
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** General technology concepts and digital literacy
+
 ## Workshops & Events
 
 ### Vibe-Coding & Lean Startup Workshop
