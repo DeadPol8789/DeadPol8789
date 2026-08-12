@@ -87,6 +87,12 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Prompt design, AI interaction, and effective instruction writing
 
+### AI Agents for Beginners: How They Work (Python)
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** AI agent fundamentals, agent workflows, and Python-based implementation
+
 ### Agentic Workflows
 
 - **Issuer:** SoloLearn
