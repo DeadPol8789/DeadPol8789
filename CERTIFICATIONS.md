@@ -62,6 +62,12 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Critical thinking, AI literacy, and responsible decision-making
 
+### Think Creatively with AI
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** AI-assisted creativity, ideation, and problem-solving
+
 ### AI-Powered A/B Testing
 
 - **Issuer:** SoloLearn
