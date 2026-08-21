@@ -18,6 +18,12 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Java fundamentals
 
+### HTML Fundamentals
+
+- **Issuer:** Coddy
+- **Year:** 2026
+- **Area:** HTML fundamentals and web page structure
+
 ### Introduction to SQL
 
 - **Issuer:** SoloLearn
