@@ -42,6 +42,15 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Intermediate SQL
 
+## Cybersecurity
+
+### Pre Security Learning Path
+
+- **Issuer:** TryHackMe
+- **Year:** 2026
+- **Duration:** 19 hours 10 minutes
+- **Area:** Cybersecurity fundamentals, networking, Linux, web basics, and security concepts
+
 ## Artificial Intelligence
 
 ### Generative AI in Practice
