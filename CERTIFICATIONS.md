@@ -12,6 +12,12 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Python fundamentals
 
+### Python Fundamentals
+
+- **Issuer:** Coddy
+- **Year:** 2026
+- **Area:** Python fundamentals and basic programming concepts
+
 ### Introduction to Java
 
 - **Issuer:** SoloLearn
