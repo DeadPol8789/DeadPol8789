@@ -81,6 +81,7 @@ I'm building a personal HomeLab to gain practical experience with systems admini
 
 Selected training:
 
+- **Pre Security Learning Path** — TryHackMe, 2026 *(19h 10m)*
 - **AI Development: Program with Agents** — MoureDev / BIG school, 2026
 - **Vibe-Coding & Lean Startup Workshop** — TechHub FP Euroformac, Madrid, 2026
 - **Introduction to Python** — SoloLearn, 2026
