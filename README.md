@@ -5,6 +5,7 @@
 </picture>
 
 <p align="center">
+  <a href="https://www.youtube.com/@deadpol8789"><img src="https://img.shields.io/badge/YouTube-0A101F?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"></a>
   <a href="https://instagram.com/DeadPol8789"><img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram"></a>
   <a href="https://tiktok.com/@DeadPol8789"><img src="https://img.shields.io/badge/TikTok-0A101F?style=for-the-badge&logo=tiktok&logoColor=22D3EE" alt="TikTok"></a>
   <a href="https://twitch.tv/DeadPol8789"><img src="https://img.shields.io/badge/Twitch-0A101F?style=for-the-badge&logo=twitch&logoColor=A78BFA" alt="Twitch"></a>
@@ -80,6 +81,7 @@ I'm building a personal HomeLab to gain practical experience with systems admini
 
 Selected training:
 
+- **Pre Security Learning Path** — TryHackMe, 2026 *(19h 10m)*
 - **AI Development: Program with Agents** — MoureDev / BIG school, 2026
 - **Introduction to AI Development** — MoureDev / BIG school, 2026
 - **Vibe-Coding & Lean Startup Workshop** — TechHub FP Euroformac, Madrid, 2026
@@ -90,10 +92,8 @@ Selected training:
 
 [View all certifications and completed training →](CERTIFICATIONS.md)
 
-## 📊 GitHub Activity
-
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=DeadPol8789&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="DeadPol8789 GitHub statistics">
+  <img src="https://komarev.com/ghpvc/?username=DeadPol8789&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views">
 </p>
 
 <!-- Featured projects will be added here when the repositories are documented and ready to present. -->

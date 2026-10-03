@@ -12,11 +12,23 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Python fundamentals
 
+### Python Fundamentals
+
+- **Issuer:** Coddy
+- **Year:** 2026
+- **Area:** Python fundamentals and basic programming concepts
+
 ### Introduction to Java
 
 - **Issuer:** SoloLearn
 - **Year:** 2026
 - **Area:** Java fundamentals
+
+### HTML Fundamentals
+
+- **Issuer:** Coddy
+- **Year:** 2026
+- **Area:** HTML fundamentals and web page structure
 
 ### Introduction to SQL
 
@@ -29,6 +41,15 @@ The main profile README only displays a selected group of the most relevant item
 - **Issuer:** SoloLearn
 - **Year:** 2026
 - **Area:** Intermediate SQL
+
+## Cybersecurity
+
+### Pre Security Learning Path
+
+- **Issuer:** TryHackMe
+- **Year:** 2026
+- **Duration:** 19 hours 10 minutes
+- **Area:** Cybersecurity fundamentals, networking, Linux, web basics, and security concepts
 
 ## Artificial Intelligence
 
@@ -44,11 +65,35 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Large language model fundamentals
 
+### Meet Claude
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** Claude AI fundamentals and practical use
+  
 ### Brainstorm with AI
 
 - **Issuer:** SoloLearn
 - **Year:** 2026
 - **Area:** AI-assisted ideation
+
+### Critical Thinking in the Age of AI
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** Critical thinking, AI literacy, and responsible decision-making
+
+### Think Creatively with AI
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** AI-assisted creativity, ideation, and problem-solving
+
+### AI-Powered A/B Testing
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** AI-assisted experimentation, A/B testing, and data-driven optimization
 
 ### AI Development: Program with Agents
 
@@ -61,7 +106,9 @@ The main profile README only displays a selected group of the most relevant item
 
 - **Issuer:** MoureDev / BIG school
 - **Year:** 2026
+- **Date:** 2026-10-02
 - **Duration:** 4 hours
+- **Type:** Certificate of attendance
 - **Area:** Introductory AI-assisted software development
 - **Certificate:** [View credential](certificates/introduction-to-ai-development-mouredev-big-school-2026.pdf)
 
@@ -70,6 +117,32 @@ The main profile README only displays a selected group of the most relevant item
 - **Issuer:** Coddy
 - **Year:** 2026
 - **Area:** Prompt fundamentals
+
+### Prompt Engineering
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** Prompt design, AI interaction, and effective instruction writing
+
+### AI Agents for Beginners: How They Work (Python)
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** AI agent fundamentals, agent workflows, and Python-based implementation
+
+### Agentic Workflows
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** Agentic AI workflows and task orchestration
+
+## General Technology
+
+### Tech for Everyone
+
+- **Issuer:** SoloLearn
+- **Year:** 2026
+- **Area:** General technology concepts and digital literacy
 
 ## Workshops & Events
 
