@@ -102,6 +102,16 @@ The main profile README only displays a selected group of the most relevant item
 - **Duration:** 6 hours
 - **Area:** AI-assisted development and programming agents
 
+### Introduction to AI Development
+
+- **Issuer:** MoureDev / BIG school
+- **Year:** 2026
+- **Date:** 2026-10-02
+- **Duration:** 4 hours
+- **Type:** Certificate of attendance
+- **Area:** Introductory AI-assisted software development
+- **Certificate:** [View credential](introduction-to-ai-development-mouredev-big-school-2026.pdf)
+
 ### AI Prompts Fundamentals
 
 - **Issuer:** Coddy
@@ -153,4 +163,4 @@ Credentials are organized using the following rule:
 - **Relevant technical course:** listed here and highlighted only when it is one of the most relevant
 - **Introductory or short course:** listed here but not highlighted individually in the main README
 
-When certificate files are uploaded, they will be stored under `certificates/` and linked from the corresponding entry.
+Uploaded certificate files are linked from the corresponding entry.
