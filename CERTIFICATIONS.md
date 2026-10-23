@@ -57,6 +57,17 @@ The main profile README only displays a selected group of the most relevant item
 - **Duration:** 19 hours 10 minutes
 - **Area:** Cybersecurity fundamentals, networking, Linux, web basics, and security concepts
 
+  ### Ethical Hacking: From Zero to Application Hacking
+
+- **Issuer:** BIG school
+- **Year:** 2026
+- **Date:** 2026-10-23
+- **Duration:** 6 hours
+- **Type:** Certificate of attendance
+- **Area:** Ethical hacking and application security
+- **Certificate:** [View credential](ethical-hacking-big-school-2026.pdf)
+
+
 ## Artificial Intelligence
 
 ### Generative AI in Practice
