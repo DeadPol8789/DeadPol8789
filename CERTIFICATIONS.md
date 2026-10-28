@@ -4,6 +4,7 @@ This file contains my complete and organized record of completed courses, worksh
 
 The main profile README only displays a selected group of the most relevant items. New credentials will be added here without redesigning the profile.
 
+
 ## Software Development
 
 ### Introduction to Python
@@ -47,6 +48,19 @@ The main profile README only displays a selected group of the most relevant item
 - **Issuer:** SoloLearn
 - **Year:** 2026
 - **Area:** Intermediate SQL
+
+
+## Cloud Computing
+
+### Cloud Computing with Azure and AWS
+
+- **Issuer:** TechHub FP Euroformac
+- **Year:** 2026
+- **Date:** 2026-10-28
+- **Type:** Certificate of completion and participation
+- **Area:** Cloud computing, Microsoft Azure, and Amazon Web Services
+- **Certificate:** [View credential](cloud-computing-azure-aws-euroformac-2026.pdf)
+
 
 ## Cybersecurity
 
@@ -153,6 +167,7 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Agentic AI workflows and task orchestration
 
+
 ## General Technology
 
 ### Tech for Everyone
@@ -160,6 +175,7 @@ The main profile README only displays a selected group of the most relevant item
 - **Issuer:** SoloLearn
 - **Year:** 2026
 - **Area:** General technology concepts and digital literacy
+
 
 ## Workshops & Events
 
@@ -171,6 +187,7 @@ The main profile README only displays a selected group of the most relevant item
 - **Area:** AI-assisted development, prototyping, and Lean Startup
 
 ---
+
 
 ## Credential policy
 
