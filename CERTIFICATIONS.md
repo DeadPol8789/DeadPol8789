@@ -25,6 +25,15 @@ The main profile README only displays a selected group of the most relevant item
 - **Year:** 2026
 - **Area:** Python programming logic and control flow
 
+### Python Object Oriented Programming
+
+- **Issuer:** Coddy
+- **Year:** 2026
+- **Date:** 2026-11-02
+- **Type:** Certificate of completion
+- **Area:** Object-oriented programming in Python
+- **Certificate:** [View credential](python-object-oriented-programming-coddy-2026.pdf)
+
 ### Introduction to Java
 
 - **Issuer:** SoloLearn
